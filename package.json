@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "starter backend server with nodejs, express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoandresr/NodeJs-Express-MongoDb.git"
+  },
+  "author": "nicoandres.rodriguez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoandresr/NodeJs-Express-MongoDb/issues"
+  },
+  "homepage": "https://github.com/nicoandresr/NodeJs-Express-MongoDb#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "mongodb": "^2.2.5"
+  }
+}
